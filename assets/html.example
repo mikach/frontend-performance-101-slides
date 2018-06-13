@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <title>Page title</title>
+
+ <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+  <h1>Header</h1>
+
+  <p>Content</p>
+
+  <script src="js/index.js"></script>
+  <script async src="3rdparty.js"></script>
+</body>
+</html>
